@@ -1,0 +1,10 @@
+Lambert 34 10.50
+Osborne 22 6.25
+Giacometti 15 15.70
+Maxwell 25 20.50
+Garcia 30 11.50
+Smith 20 9.50
+Cobb 21 7.5
+Hamilton 13 18.5
+Nelson 31 11.50
+Applegate 18 12.50
